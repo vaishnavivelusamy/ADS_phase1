@@ -60,23 +60,11 @@ Tune hyperparameters for better performance.
       Perform rigorous testing of your system to identify and address any issues.
 
  
-  ##conclusion:
+     ##conclusion:
             
-  In conclusion, the credit card fraud detection project has developed a robust system capable of identifying and mitigating fraudulent transactions. The model's performance, combined with rigorous data preprocessing, feature engineering, and a commitment to security and compliance, positions this project as a valuable asset in safeguarding financial transactions. It is imperative to maintain vigilance, adapt to emerging threats, and continue to advance the system's capabilities for a secure and resilient financial ecosystem.
+     In conclusion, the credit card fraud detection project has developed a robust system capable of identifying
+     and mitigating fraudulent transactions. The model's performance, combined with rigorous data preprocessing, feature
+     engineering, and a commitment to security and compliance, positions this project as a valuable asset in safeguarding
+    financial transactions. It is imperative to maintain vigilance, adapt to emerging threats, and continue to advance the
+    system's capabilities for a secure and resilient financial ecosystem.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
