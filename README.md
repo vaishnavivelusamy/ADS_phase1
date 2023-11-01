@@ -25,9 +25,9 @@ The project compares the results of different techniques :
 Note about the difference between Random Forest and Decision tree models:
 - A Random Forest is essentially a collection of Decision Trees. A decision tree is built on an entire dataset, using all the features/variables, whereas a random forest randomly selects observations (rows) and specific features/variables to build multiple decision trees from and then averages the results. After a large number of trees are built using this method, each tree "votes" or chooses the class, and the class receiving the most votes by a simple majority is the "winner" or predicted class.
 
--  How users can get started with the project
+  ###How users can get started with the project
 
--  1. Problem Definition:
+  1. Problem Definition:
        Clearly define the problem you want to solve: real-time credit card fraud detection. Specify your goals, such as the accuracy rate and false positive rate you wantto achieve.
 2. Data Collection:
        Obtain a labeled dataset of credit card transactions. This dataset should include both legitimate and fraudulent transactions.
